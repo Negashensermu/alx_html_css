@@ -1,0 +1,1 @@
+This file is directly duplicated from figma file. right is given to make any relevant changes to the HTML code if needed (ie: adding images for logos, etc).

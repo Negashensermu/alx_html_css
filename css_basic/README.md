@@ -1,0 +1,1 @@
+The contents on this site is dirctly duplicated from pages in figma and I can make any relevant changes to the HTML code if needed (ie: adding images for logos, etc).
